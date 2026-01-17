@@ -42,3 +42,6 @@ tab
 
 # 🔨 Latest Release
 * **[v1.0.1](https://github.com/JarcoCZ/Floxflix/releases/tag/v1.0.1)**
+
+# 📄 Changelog
+* **See [CHANGELOG](CHANGELOG.md) for a full list of changes.**
