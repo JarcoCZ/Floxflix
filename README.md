@@ -41,7 +41,7 @@ tab
 * Stable internet connection
 
 # 🔨 Latest Release
-* **[v1.0.2](https://github.com/JarcoCZ/Floxflix/releases/latest)**
+* **[v1.0.3](https://github.com/JarcoCZ/Floxflix/releases/latest)**
 
 # 📄 Changelog
 * **See [CHANGELOG](CHANGELOG.md) for a full list of changes.**
